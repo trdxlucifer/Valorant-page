@@ -1,0 +1,47 @@
+body,html {
+    font-family: 'Tangerine', serif;
+    font-size: 25px;
+    text-shadow: 4px 4px 4px #aaa;
+    background: url(1072679.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ 
+h1{
+    font-size:3rem;
+    color:rgb(191, 202, 31);
+    
+}
+.buffer{
+    height: 12rem;
+
+}
+hr{
+    border-color: blue;
+    border-width: 4px;
+    max-width: 65px;
+    
+}
+.btn{
+    font-weight: 600;
+    border-radius:400px;
+    font-style:'Tangerine' , serif;
+    text-transform:uppercase;
+    
+}
+.btn-xl{
+    padding:0.5rem 1.5rem;
+}
+.btn-primary {
+    background-color: #F05F44;
+    border-color:  #F05F44;
+    
+}
+.btn-primary:hover{
+    background-color: #ee4b08;
+    border-color: #ee4b08;
+    border-width: 4px;
+    
+}
